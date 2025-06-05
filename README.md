@@ -2,7 +2,7 @@
 
 This project explores how age, gender, BMI, and lifestyle factors such as stress, physical activity, and sleep quality interact to impact health. Using Excel's data analysis and visualization capabilities, I cleaned, transformed, and visualized a dataset sourced from Kaggle to uncover trends — especially focusing on **BMI distribution across different age groups and genders**.
 
-
+![Dashboard Preview](dashboard.png)
 
 ## 📊 Project Overview
 
